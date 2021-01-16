@@ -1,1 +1,0 @@
-# soli-tsaagane.github.io
