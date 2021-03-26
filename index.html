@@ -14,16 +14,52 @@
     <meta property="og:description"
         content="Audio Technician, DJ, Music Producer, Music Artist, Javascript Programmer, Web Developer & Systems Administrator">
     <meta property="og:type" content="profile">
-    <meta property="og:image" content="">
+    <meta property="og:image" content="https://soli-tsaagane.github.io/lib/img/profile.jpg">
     
     <title>Soli - Official GitHub Page</title>
     <link rel="stylesheet" href="./lib/css/materialize.min.css">
     <script defer src="./lib/js/materialize.min.js"></script>
 </head>
 
-<body>
-    <div id="app" class="container">
-        <h1>Soli</h1>
+<body class="black white-text">
+    <!-- APP -->
+    <div id="app">
+        <header>
+            <h1 class="brand-logo center">Soli</h1>
+            <img src="./lib/img/profile.jpg" class="responsive-img" alt="Vader Media logo">
+        </header>
+        <!-- CONTENT -->
+        <main class="container grey-text">
+            <article class="flow-text center toolbar">Audio Technician & Web Developer at Vader Media</article>
+            <img src="./lib/img/light-transparent.png" class="responsive-img" alt="Vader Media logo">
+            <section id="music"></section>
+        </main>
+        <!-- SRC -->
+        <script>
+            const Section = (id, heading, content) => {
+                const section = {}
+                section.id = document.querySelector(id)
+                section.heading = `<h1>${heading}</h1>`
+                section.content = `<div class="grey-darken-2 white-text">${content}<div/>`
+                section.id.innerHTML += (section.heading + section.content)
+                return section
+            }
+
+            const music = Section('#music', 'Music', `
+            <div>
+                <h4>Podcast</h4>
+                <img src="./lib/img/show-logo-1.png" class="responsive-img">
+                <h5>An Hour With Soli</h5>
+                <h5>"New Show" - <span class="grey-text">Coming Soon</span></h5>
+            </div>
+
+            <div class="right">
+                <h4>Releases</h4>
+                <h5>Winter EP - <span class="grey-text">Coming Soon</span></h5>
+                <h5>Vader Media - <span class="grey-text">Coming Soon</span></h5>
+            </div>
+            `)
+        </script>
     </div>
 <!-- JSON-LD -->
 <script type='application/ld+json'>
@@ -32,6 +68,7 @@
 "@type": "person",
 "name": "Soli Tsaagane",
 "jobTitle": "Audio Technician, Music Producer, Music Artist, Javascript Programmer, Web Developer, Systems Administrator",
+"image": "https://soli-tsaagane.github.io/lib/img/profile.jpg"
 "gender": "male",
 "url": "https:soli-tsaagane.github.io",
 "address": {
