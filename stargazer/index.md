@@ -15,7 +15,7 @@ I want to apologize for any pain that may stem from these documents because I do
 
 I hope you come value these pages as I do.
 
-From your lover always, now and always
+From your lover, now and always ❤
 
 Soli Tsaagane
 
@@ -28,13 +28,16 @@ This section will define any definitions need for the following pages:
 ### Key Terms
 
 - **Journal**
-: Refers to the entire document and all the pages contained or attached to it.
+: Refers to the entire document and all the pages contained or attached to it
 
 - **Entry**
-: Refers to any addition of information to this document. it is synonymous with the terms (journal-entry, blog, log, post) and consists of a *Title*, *Date*, *Body*, and a list of *Keywords* to keep topics together.
+: Refers to any addition of information to this document. it is synonymous with the terms (journal-entry, blog, log, post) and consists of a *Title*, *Date*, *Body*, and a list of *Keywords* to keep topics together
 
 - **Nibbles**
 : A term of endearment shared by the two of us. It represents the purest form of our love. *It more oftenly refers to the act of eating (due to hunger or recreational purposes)*
+
+- **Keywords**
+: A list of searchable terms that group post topics together. This is easiest when using the `find: [(ctrl | cmd) + F]` function on a web browser to locate a topic
 
 ---
 
