@@ -7,13 +7,13 @@
 
 To my beloved Nobuhle Zwane.
 
-I wrote this journal with the constant internal battle of whether I'd ever show it to you. I have no planned structure of "scope" of that the pages will contain, but I can guarantee you that they will be a dive into my deepest thoughts of you (both imaginary and real).
+I wrote this journal with the constant internal battle of whether I'd ever show it to you. I have no planned structure of "scope" of what the pages will contain, but I can guarantee you that they will be a dive into my deepest thoughts of you (both imaginary and real).
 
 I also hope to use these pages to better improve my skills as a writer. So all these words will be pure, without the aid of my *9000 nerdy keyboards*, no autocorrect and no changes in grammar. Just pure rich text.
 
 I want to apologize for any pain that may stem from these documents because I don't know what lies ahead.
 
-I hope you come value these pages as I do.
+I hope you come to value these pages as I do.
 
 From your lover, now and always ❤
 
@@ -23,7 +23,7 @@ Soli Tsaagane
 
 ## Terminologies
 
-This section will define any definitions need for the following pages:
+This section will define any definitions needed in the following pages:
 
 ### Key Terms
 
@@ -49,7 +49,7 @@ This section will define any definitions need for the following pages:
 
 Earlier on today, you were in good spirits but anxious about your trip with the girls. It seemed like a beautiful summer evening in China and your beauty was radiating in your space as you were packing.
 
-I was rather moody and quite in need of your attention. This resulted in me ruining both of our moods. I failed to keep my negative energy off you and introduced a degree of unnecessary pain into our lives so I write this to you in order ask for your forgiveness.
+I was rather moody and quite in need of your attention. This resulted in me ruining both of our moods. I failed to keep my negative energy off you and introduced a degree of unnecessary pain into our lives so I write this to you in order to ask for your forgiveness.
 
 I made you stay up and wait for me. Only for me not to pitch up again. "I was at work...🤷‍♂️" yes, I know but the fact that i couldn't make yet another one of our commitments is an illness to me. 
 
