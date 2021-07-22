@@ -53,7 +53,7 @@ I was rather moody and quite in need of your attention. This resulted in me ruin
 
 I made you stay up and wait for me. Only for me not to pitch up again. "I was at work...🤷‍♂️" yes, I know but the fact that i couldn't make yet another one of our commitments is an illness to me. 
 
-I thought of punishing myself and staying up until you wake up but then quickly remembered that doesn't do neither of us any good. Instead I chose to take that time and throw it into something creative, something that is apologetically about the two of us but most importantly **something that reminds me of you**.
+I thought of punishing myself and staying up until you wake up but then quickly remembered that doesn't do neither of us any good. Instead I chose to take that time and throw it into something creative, something that is unapologetically about the two of us but most importantly **something that reminds me of you**.
 
 *This is my first time writing to you and it frustrates me that I'm starting off with an apology.*
 
