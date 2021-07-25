@@ -63,3 +63,28 @@ I thought of punishing myself and staying up until you wake up but then quickly 
 - Winter
 
 ---
+
+## 2021/07/25
+
+### DELIVERY DAY
+
+"**ITS FINALLY HERE!**", she exclaimed as she rushed into our entertainment room. The energy of her anticipation lights up the room as she halts to do her signature celebration dance. I pause my game and put down the PS5 controller to marvel at the festivities.
+
+"What's finally here my love?", I ask jokingly knowing exactly what's happening. I'm met with an unshakeable feeling of pride towards her accomplishiment.
+
+"**MY BABY!!!**", she responds at the the top of her voice. She runs over to me and starts pulling me by the arm. "My love, woza. You'll finish your game later", she says as  she continues to tug at my torso.
+
+"Kanti, whose baby is this? Why are you disturbing me?" I reply chuckling. Only to be met by the cutest and most intimidating stare ever to be witnessed on Earth. I quickly realise that's my cue to get up and attend to the this situation.
+
+"Did they call? How far are they?", I ask.
+
+"Coming up the driveway", she replies as we walk towards the front door. She swings open the door and rushes out as we are met by the noise and light of a large white truck.
+
+The delivery guys slowly start to offload R3.8 million worth of german metal.
+
+### KEYWORDS
+- Fantasy
+- Aspiration
+- Winter
+
+---
