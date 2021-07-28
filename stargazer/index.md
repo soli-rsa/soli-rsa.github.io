@@ -105,7 +105,7 @@ The task was simple, to write a positive mantra that I could repeat until it was
 
 On that day, I wrote down the following words:
 
-*"I, Tlhapane Solomon Tsaagane, vow to acquire my first R1 million by the age of 22. In return for this acquisition, I will share my musical talents as well as my academic traits with the world."*
+> *"I, Tlhapane Solomon Tsaagane, vow to acquire my first R1 million by the age of 22. In return for this acquisition, I will share my musical talents as well as my academic traits with the world."*
 
 I dated and signed this affirmation and it stayed on my wall until I left for Johannesburg in 2016. I didn't achieve my goal, but I still have unshakeable faith that God has not denied me of attainment.
 
