@@ -99,7 +99,7 @@ To which I responded, "Only if you ride me in it. 😜"
 
 When I was in matric in 2012, my outgoing personality (and arguably my lack of motivation from the academic system) nearly resulted in me failing the academic year. The reason behind my lack of motivation was due to the fact that I was spending a large amount of my free time kindling my aspirations of entrepreneurship. I was learning the technicalities of music, computing and virtually every other study that I currently have knowledge of.
 
-If I remember correctly, it was the 24th June when I had finished a personal growth workbook and seminar by Bob Proctor about the law of attraction. I was incredibly motivated so I took it upon myself to practice one of the growth tools provided. 
+If I remember correctly, it was 24th June when I had finished a personal growth workbook and seminar by Bob Proctor about the law of attraction. I was incredibly motivated so I took it upon myself to practice one of the growth tools provided. 
 
 The task was simple, to write a positive mantra that I could repeat until it was imprinted in my subconscious mind.
 
