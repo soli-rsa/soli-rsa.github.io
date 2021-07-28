@@ -82,7 +82,7 @@ I thought of punishing myself and staying up until you wake up but then quickly 
 
 The delivery guys slowly start to offload R3.8 million worth of german metal with an obsidian black finish. It stood confidently on top of 4, 22 inch cross-spoked tires and the interior was trimmed in open-pore ash wood.
 
-I took a moment to assess her reaction and her happiness quickly became the center of my world. She looked back at me and asked, "Should we take for a ride?"
+I took a moment to assess her reaction and her happiness quickly became the center of my world. She looked back at me and asked, "Should we take it for a ride?"
 
 To which I responded, "Only if you ride me in it. 😜"
 
