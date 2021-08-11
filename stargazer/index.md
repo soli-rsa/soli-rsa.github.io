@@ -117,3 +117,30 @@ With my birthday coming up, I think that it is fitting that I update this affirm
 - Winter
 
 ---
+
+## 2021/08/11
+
+### SHOWER TIME
+
+After settling into a beautiful rented space for a romantic week away in the Seychelles. Our travels have left us sticky from the humid, 28 degree african weather with no chance of precipitation. 
+
+We are both well-rested but we just need to refresh. It takes nothing more than a unspoken thought and a glimpse of your smile for the blood in my body to move from one head to another.
+
+You slowly take off every item of clothing on you right in front of me and drop them right where you stand. You then proceed to help me take of mine. 
+
+***MY BREATHING RISES.***
+
+After the most tropically amorous kiss we've ever shared, you command me to follow you in the shower with just the stroke of a finger. The submission triggers an arousal that makes me throb with immediate effect. 
+
+***MY MEMBER RISES.***
+
+As the water touches our skin to make a spritzer of our love, I feel your eagerness for me to be inside you. You lay your hands on my member and...
+
+***MY TEMPERATURE RISES.***
+
+### KEYWORDS
+- Fantasy
+- Fornication
+- Winter
+
+---
