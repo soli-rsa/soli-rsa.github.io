@@ -157,7 +157,7 @@ Yesterday afternoon, I shared something that brought you great pain. A pain that
 
 In this time of great fear of loss, I choose to celebrate the blessed moments that I had and still wish to have with you.
 
-I love you so much MaNtuli. I never meant you make you cry.
+I love you so much MaNtuli. Thank you for rekindling my spirit.
 
 ### KEYWORDS
 - Epiphany
