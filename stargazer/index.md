@@ -151,7 +151,7 @@ As the water touches our skin to make a spritzer of our love, I feel your eagern
 
 Midnight, when I was waiting up to hear from you. I tried to call and wake you up so you could start your day... WeChat kept saying "Line busy" - 2 words that felt like a stab to the chest. I watched a nature documentary about small creatures that thrive in this big-small world we live in. 
 
-> Did you know that during the rainy season of the Sahara, an elephant's footprint becomes water park for tiny critters and a swimming pool for other smaller animals. This experience is a reality for the small animals solely due to the migration of the great african elephant. 
+> Did you know that during the rainy season of the Sahara, an elephant's footprint becomes a water park for tiny critters and a swimming pool for other smaller animals. This experience is a reality for the small animals solely due to the migration of the great african elephant. 
 
 Yesterday afternoon, I shared something that brought you great pain. A pain that I intended to prevent by actually being open and sharing my experience with you. If that pain is cause for your migration away from me in life. I just want you to know that each day you that I shared with you blessed me with a new water park. Your gargantuan footprint in my life cannot be removed.
 
