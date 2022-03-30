@@ -1,5 +1,12 @@
 {
+    // EDITOR
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    // DENO
     "deno.enable": true,
     "deno.lint": true,
-    "deno.unstable": true
+    "deno.config": "./deno.jsonc",
+    "deno.unstable": true,
+    // JAVASCRIPT
+    "javascript.suggest.completeFunctionCalls": true
 }

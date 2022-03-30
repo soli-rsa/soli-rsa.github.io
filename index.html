@@ -4,17 +4,50 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Soli Tsaagane</title>
-    <!--  -->
+    <title>Home | Soli Tsaagane</title>
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="./assets/img/avatar-400x400.png" type="image/x-icon">
+    <!-- MANIFEST -->
+    <link rel="manifest" href="./manifest.json">
+    <!-- SCHEMA -->
+    <script type="application/ld+json" src="./components/schema/person.json"></script>    
+    <!-- BOOTSTRAP -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha256-YvdLHPgkqJ8DVUxjjnGVlMMJtNimJ6dYkowFFvp4kKs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/styles/index.css">
+    <!-- SOURCE MOD -->
+    <script type="module" src="./index.js"></script>
 </head>
 <body>
-    <div id="app"></div>
-    <script>
-        const Main = () => {
-            const app = document.querySelector('#app')
-        }
-
-        window.addEventListener('load', Main )
-    </script>
+    <!-- APP TEMPLATE -->
+    <template id="person">
+        <article class="card bg-dark">
+            <img class="card-img-top" :src="image" :alt="{{name}} - {{worksFor}}">
+            <header class="card-header">
+                <h1 class="card-title pt-4">{{ name }}</h1>
+            </header>
+            <hr>
+            <div class="card-body">
+                <h2 class="card-subtitle">{{ jobTitle }} @{{ orgName }}</h2>
+                <br>
+                <p class="card-text text-warning">This page is currently under construction. Please come back soon!</p>
+                <h3 >Socials</h3>
+                <br>
+                <ul class="list-group">
+                    <li class="list-group-item li" v-for="(link, index) in links">
+                        <a 
+                        class="card-link link-dark text-decoration-none text-center" 
+                        :key="index" 
+                        :href="link">{{link}}</a>
+                    </li>
+                </ul>
+            </div>
+            <hr>
+            <footer class="card-footer">
+                <h6 class="text-center">{{name}} &copy; {{year}}</h6>
+            </footer>
+        </article>
+    </template>
+    <!-- TARGET -->
+    <div v-scope="person()" class="container p-5"></div>
 </body>
 </html>

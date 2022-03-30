@@ -1,0 +1,21 @@
+@import url("./colors.css");
+
+body,
+#app {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--granite-gray);
+  color: var(--light-gray);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--antique-brass-2);
+}
+
+h4,
+h5,
+h6 {
+  color: var(--antique-brass);
+}

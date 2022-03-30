@@ -1,0 +1,23 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "name": "Soli Tsaagane",
+    "url": "https://soli-rsa.github.io",
+    "image": "https://avatars.githubusercontent.com/u/51553394?s=400&u=39d6a76ff3643b5d8c00323148c91a65cd790fd2&v=4",
+    "jobTitle": "Web Developer",
+    "worksFor": {
+        "@type": "Organization",
+        "name": "Eland.io"
+    },
+    "sameAs": [
+        "https://facebook.com/soli.rsa",
+        "https://twitter.com/soli_rsa",
+        "https://instagram.com/soli_rsa",
+        "https://www.youtube.com/channel/UCwHY2KT-yxqkEUiaQgi7wNQ",
+        "https://www.linkedin.com/in/solitsaagane",
+        "https://pinterest.com/soli_rsa",
+        "https://soundcloud.com/soli_rsa",
+        "https://github.com/soli-rsa",
+        "https://soli-rsa.github.io"
+    ]
+}

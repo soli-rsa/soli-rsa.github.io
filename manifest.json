@@ -1,0 +1,16 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest",
+    "name": "Soli Tsaagane",
+    "short_name": "Soli-RSA",
+    "orientation": "portrait-primary",
+    "start_url": "./",
+    "display": "standalone",
+    "theme_color": "#bd836dff",
+    "background_color": "#635F66ff",
+    "lang": "en-",
+    "icons": [
+        {
+            "src": "./"
+        }
+    ]
+}
