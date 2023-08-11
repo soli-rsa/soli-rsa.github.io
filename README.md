@@ -1,5 +1,3 @@
-# GitHub With Soli
-
 # Soli Tsaagane - Audio Technician & Web Developer
 
 Welcome to my hearthis.at Profile. I'm glad you've arrived. I'm an audio technician and web developer from South Africa. With a background in audio technology and a passion for web development, I bring a unique blend of skills to my work.
